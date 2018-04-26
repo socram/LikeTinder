@@ -10,6 +10,11 @@ Abra o console JAVASCRIPT ( Inspect Element / F12 )
 Cole um dos script abaixo
 
 
+[![Robô Tinder](https://img.youtube.com/vi/zbT9mSieR3M/0.jpg)](https://www.youtube.com/watch?v=zbT9mSieR3M)
+
+
+
+
 * semCriterio.js
 
 ```javascript
