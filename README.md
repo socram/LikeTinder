@@ -5,6 +5,9 @@ Como rodar:
 
 Abra o Tinder no navegador https://tinder.com/app/matches
 
+Abra o console JAVASCRIPT ( Inspect Element / F12 )
+
+Cole um dos script abaixo
 
 
 * semCriterio.js
